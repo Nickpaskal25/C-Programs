@@ -1,3 +1,5 @@
+//Name: Nicholas Otieno
+//ADM: BCS-05-0046/2025
 //task 1 calculate book overdue,charge fine.
 #include<iostream>
 using namespace std;
