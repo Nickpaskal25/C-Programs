@@ -1,5 +1,5 @@
-C-PROGRAMS
+##C-PROGRAMS
 Weekly assignments:
-WEEK 1
-1. 
-2.
+##WEEK 1
+-[overdue fine] ()
+-[Scholarship awards] ()
