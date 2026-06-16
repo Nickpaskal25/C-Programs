@@ -23,6 +23,9 @@ Weekly assignments:
 
 ##WEEK 3: Functions
 -
+-[Payroll System Using Functions.cpp] (https://github.com/Nickpaskal25/C-Programs/blob/main/Payroll%20System%20Using%20Functions.cpp)
+
+-[Water_Billing_System_Using_Functions.cpp] (https://github.com/Nickpaskal25/C-Programs/blob/main/Water_Billing_System_Using_Functions.cpp)
 
 ##WEEK 4: Loops
 -
