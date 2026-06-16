@@ -18,6 +18,7 @@ Weekly assignments:
 
 -[Savings_Withdrawal_System_while_loop.cpp] ()
 
+-[Password_Verification_System_do_while_loop.cpp] (https://github.com/Nickpaskal25/C-Programs/blob/main/Password_Verification_System_do_while_loop.cpp)
 
 ##WEEK 5: Arrays
 
