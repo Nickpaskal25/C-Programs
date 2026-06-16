@@ -8,7 +8,9 @@ Weekly assignments:
 
 ##WEEK 2: Control Structures
 -
--[Admission_Decision_Nested_if.cpp] ()
+-[Admission_Decision_Nested_if.cpp] (https://github.com/Nickpaskal25/C-Programs/blob/main/Admission_Decision_Nested_if.cpp)
+
+-
 
 -[] ()
 
