@@ -13,8 +13,6 @@ Weekly assignments:
 ##WEEK 3: Functions
 
 ##WEEK 4: Loops
--
--
 
 ##WEEK 5: Arrays
 
