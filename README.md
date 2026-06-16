@@ -4,6 +4,7 @@ Weekly assignments:
 
 ##WEEK 1: C++ Basics
 
+
 ##WEEK 2: Control Structures
 
 -[overdue fine] (https://github.com/Nickpaskal25/C-Programs/commit/1466fa5d83065311e57cd3bfe9fb5270d897df22)
@@ -12,6 +13,7 @@ Weekly assignments:
 
 ##WEEK 3: Functions
 
+
 ##WEEK 4: Loops
 
 -[Employee_Bonus_System_for_loop.cpp] (https://github.com/Nickpaskal25/C-Programs/blob/main/Employee_Bonus_System_for_loop.cpp)
@@ -19,6 +21,7 @@ Weekly assignments:
 -[Savings_Withdrawal_System_while_loop.cpp] (https://github.com/Nickpaskal25/C-Programs/blob/main/Savings_Withdrawal_System_while_loop.cpp)
 
 -[Password_Verification_System_do_while_loop.cpp] (https://github.com/Nickpaskal25/C-Programs/blob/main/Password_Verification_System_do_while_loop.cpp)
+
 
 ##WEEK 5: Arrays
 
