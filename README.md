@@ -3,13 +3,13 @@
 Weekly assignments:
 -
 
-##WEEK 1: C++ Basics
+WEEK 1: C++ Basics
 -
 -[Mobile_Phone_Sales_Receipt_System.cpp)] (https://github.com/Nickpaskal25/C-Programs/blob/main/Mobile_Phone_Sales_Receipt_System.cpp)
 
 -[Driving_Test_Result_Evaluation_System1.cpp] (https://github.com/Nickpaskal25/C-Programs/blob/main/Driving_Test_Result_Evaluation_System1.cpp)
 
-##WEEK 2: Control Structures
+WEEK 2: Control Structures
 -
 -[Grading_System_if_else_ladder.cpp] (https://github.com/Nickpaskal25/C-Programs/blob/main/Grading_System_if_else_ladder.cpp)
 
@@ -21,13 +21,13 @@ Weekly assignments:
 
 -[overdue fine] (https://github.com/Nickpaskal25/C-Programs/blob/main/Overdue_Fine_Week2_Assignment.cpp)
 
-##WEEK 3: Functions
+WEEK 3: Functions
 -
 -[Payroll System Using Functions.cpp] (https://github.com/Nickpaskal25/C-Programs/blob/main/Payroll%20System%20Using%20Functions.cpp)
 
 -[Water_Billing_System_Using_Functions.cpp] (https://github.com/Nickpaskal25/C-Programs/blob/main/Water_Billing_System_Using_Functions.cpp)
 
-##WEEK 4: Loops
+WEEK 4: Loops
 -
 -[Employee_Bonus_System_for_loop.cpp] (https://github.com/Nickpaskal25/C-Programs/blob/main/Employee_Bonus_System_for_loop.cpp)
 
@@ -36,10 +36,10 @@ Weekly assignments:
 -[Password_Verification_System_do_while_loop.cpp] (https://github.com/Nickpaskal25/C-Programs/blob/main/Password_Verification_System_do_while_loop.cpp)
 
 
-##WEEK 5: Arrays
+WEEK 5: Arrays
 -
 
-##WEEK 6: Classes And Objects
+WEEK 6: Classes And Objects
 -
 - [Library_Book_Mangement_system.cpp] (https://github.com/Nickpaskal25/C-Programs/blob/main/Library_Book_Mangement_system.cpp)
 
