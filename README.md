@@ -41,6 +41,9 @@ Weekly assignments:
 
 ##WEEK 6: Classes And Objects
 -
+- [Library_Book_Mangement_system.cpp] (https://github.com/Nickpaskal25/C-Programs/blob/main/Library_Book_Mangement_system.cpp)
+
+- [Student_Fee_Management_System.cpp] (https://github.com/Nickpaskal25/C-Programs/blob/main/Student_Fee_Management_System.cpp)
 
 ##WEEK 8:
 
