@@ -11,15 +11,15 @@ Weekly assignments:
 
 ##WEEK 2: Control Structures
 -
--[Admission_Decision_Nested_if.cpp] (https://github.com/Nickpaskal25/C-Programs/blob/main/Admission_Decision_Nested_if.cpp)
-
 -[Grading_System_if_else_ladder.cpp] (https://github.com/Nickpaskal25/C-Programs/blob/main/Grading_System_if_else_ladder.cpp)
+
+-[Admission_Decision_Nested_if.cpp] (https://github.com/Nickpaskal25/C-Programs/blob/main/Admission_Decision_Nested_if.cpp)
 
 -[Scholarship_awards.cpp] (https://github.com/Nickpaskal25/C-Programs/blob/main/Scholarship_awards.cpp)
 
 -[Simple_Calculator_switch_statement.cpp] (https://github.com/Nickpaskal25/C-Programs/blob/main/Simple_Calculator_switch_statement.cpp)
 
--[overdue fine] (https://github.com/Nickpaskal25/C-Programs/commit/1466fa5d83065311e57cd3bfe9fb5270d897df22)
+-[overdue fine] (https://github.com/Nickpaskal25/C-Programs/blob/main/Overdue_Fine_Week2_Assignment.cpp)
 
 ##WEEK 3: Functions
 -
