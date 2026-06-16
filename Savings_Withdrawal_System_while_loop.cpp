@@ -11,11 +11,11 @@ i. Declares a variable to store account balance and withdrawal amount.
 ii. Uses a while loop to allow repeated withdrawals as long as the balance is
 sufficient.
 iii. After each withdrawal:
-? Deducts the amount from the balance
-? Displays the remaining balance
+• Deducts the amount from the balance
+• Displays the remaining balance
 iv. The loop should stop when:
-? The withdrawal amount is greater than the balance, OR
-? The balance becomes zero
+• The withdrawal amount is greater than the balance, OR
+• The balance becomes zero
  */
 #include <iostream>
 using namespace  std;
