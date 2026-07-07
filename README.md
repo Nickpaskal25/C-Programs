@@ -48,7 +48,6 @@ WEEK 6: Classes And Objects
 ##WEEK 8:
 -
 -[Hotel_Room_Booking_System_Constructors_and_Destructors] (https://github.com/Nickpaskal25/C-Programs/blob/main/%20Hotel_Room_Booking_System_Constructors_and_Destructors.cpp)
-
 -[Bank_Account_System] (https://github.com/Nickpaskal25/C-Programs/blob/main/Bank_Account_System.cpp)
 
 ##WEEK 9:
