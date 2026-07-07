@@ -46,6 +46,8 @@ WEEK 6: Classes And Objects
 - [Student_Fee_Management_System.cpp] (https://github.com/Nickpaskal25/C-Programs/blob/main/Student_Fee_Management_System.cpp)
 
 ##WEEK 8:
+-
+-[Hotel_Room_Booking_System_Constructors_and_Destructors] (https://github.com/Nickpaskal25/C-Programs/blob/main/%20Hotel_Room_Booking_System_Constructors_and_Destructors.cpp)
 
 ##WEEK 9:
 
