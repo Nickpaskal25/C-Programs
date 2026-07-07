@@ -41,6 +41,7 @@ WEEK 4: Loops
 -
 WEEK 5: Arrays
 -
+-[Hotel_Management_sys] (https://github.com/Nickpaskal25/C-Programs/blob/main/Hotel_Management_sys_Using_Arays.cpp)
 
 -
 WEEK 6: Classes And Objects
