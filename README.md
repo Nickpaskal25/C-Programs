@@ -51,33 +51,33 @@ WEEK 6: Classes And Objects
 - [Student_Fee_Management_System.cpp] (https://github.com/Nickpaskal25/C-Programs/blob/main/Student_Fee_Management_System.cpp)
 
 -
-##WEEK 8:
+##WEEK 8: Constructors and Destructors
 -
 -[Bank_Account_System] (https://github.com/Nickpaskal25/C-Programs/blob/main/Bank_Account_System.cpp)
 
 -[Hotel_Room_Booking_System_Constructors_and_Destructors] (https://github.com/Nickpaskal25/C-Programs/blob/main/%20Hotel_Room_Booking_System_Constructors_and_Destructors.cpp)
 
 -
-##WEEK 9:
+##WEEK 9: Inheritance
 -
 -[School_Management_system] (https://github.com/Nickpaskal25/C-Programs/blob/main/School_Management_system.cpp)
 
 -[Vehicle_System] (https://github.com/Nickpaskal25/C-Programs/blob/main/Vehicle_Sys.cpp)
 
 -
-##WEEK 10:
+##WEEK 10: Polymorphism
 -[Payment System] (https://github.com/Nickpaskal25/C-Programs/blob/main/%20Payment_System_Function_Overloading_Compile_time_Polymorphism.cpp)
 
 -[Shape Drawing] (https://github.com/Nickpaskal25/C-Programs/blob/main/Shape_Drawing_System_Function_Overriding_Run_time_Polymorphism.cpp)
 
 -
-##WEEK 11:
+##WEEK 11: Encapsulation
 -
 
 -
-##WEEK 12:
+##WEEK 12: Abstruction
 -
 
 -
-##WEEK 13:
+##WEEK 13: Files
 -
